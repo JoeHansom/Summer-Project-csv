@@ -1,0 +1,441 @@
+Landmark,X,Y,Species,Period
+1,422,397,Bergeroniellus asiaticus,Cambrian-Lower
+2,131,58,Bergeroniellus asiaticus,Cambrian-Lower
+3,154,82,Bergeroniellus asiaticus,Cambrian-Lower
+4,88,289,Bergeroniellus asiaticus,Cambrian-Lower
+5,377,80,Bergeroniellus asiaticus,Cambrian-Lower
+6,199,206,Bergeroniellus asiaticus,Cambrian-Lower
+7,230,161,Bergeroniellus asiaticus,Cambrian-Lower
+8,266,140,Bergeroniellus asiaticus,Cambrian-Lower
+9,300,312,Bergeroniellus asiaticus,Cambrian-Lower
+10,323,288,Bergeroniellus asiaticus,Cambrian-Lower
+11,350,273,Bergeroniellus asiaticus,Cambrian-Lower
+1,694,288,Bondonella szduyi,Cambrian-Lower
+2,79,288,Bondonella szduyi,Cambrian-Lower
+3,117,287,Bondonella szduyi,Cambrian-Lower
+4,246,406,Bondonella szduyi,Cambrian-Lower
+5,291,165,Bondonella szduyi,Cambrian-Lower
+6,270,318,Bondonella szduyi,Cambrian-Lower
+7,285,270,Bondonella szduyi,Cambrian-Lower
+8,284,234,Bondonella szduyi,Cambrian-Lower
+9,491,316,Bondonella szduyi,Cambrian-Lower
+10,496,276,Bondonella szduyi,Cambrian-Lower
+11,502,247,Bondonella szduyi,Cambrian-Lower
+1,315,280,Esmeraldina (Palmettaspis),Cambrian-Lower
+2,310,62,Esmeraldina (Palmettaspis),Cambrian-Lower
+3,310,82,Esmeraldina (Palmettaspis),Cambrian-Lower
+4,210,138,Esmeraldina (Palmettaspis),Cambrian-Lower
+5,409,131,Esmeraldina (Palmettaspis),Cambrian-Lower
+6,289,146,Esmeraldina (Palmettaspis),Cambrian-Lower
+7,309,154,Esmeraldina (Palmettaspis),Cambrian-Lower
+8,332,146,Esmeraldina (Palmettaspis),Cambrian-Lower
+9,289,201,Esmeraldina (Palmettaspis),Cambrian-Lower
+10,310,205,Esmeraldina (Palmettaspis),Cambrian-Lower
+11,328,201,Esmeraldina (Palmettaspis),Cambrian-Lower
+1,187,423,Gabriellus kierorum,Cambrian-Lower
+2,195,74,Gabriellus kierorum,Cambrian-Lower
+3,195,88,Gabriellus kierorum,Cambrian-Lower
+4,85,126,Gabriellus kierorum,Cambrian-Lower
+5,308,137,Gabriellus kierorum,Cambrian-Lower
+6,175,188,Gabriellus kierorum,Cambrian-Lower
+7,195,189,Gabriellus kierorum,Cambrian-Lower
+8,233,189,Gabriellus kierorum,Cambrian-Lower
+9,168,268,Gabriellus kierorum,Cambrian-Lower
+10,195,267,Gabriellus kierorum,Cambrian-Lower
+11,226,268,Gabriellus kierorum,Cambrian-Lower
+1,483,363,Olenellus chiefensis,Cambrian-Lower
+2,193,62,Olenellus chiefensis,Cambrian-Lower
+3,220,95,Olenellus chiefensis,Cambrian-Lower
+4,189,286,Olenellus chiefensis,Cambrian-Lower
+5,399,101,Olenellus chiefensis,Cambrian-Lower
+6,296,229,Olenellus chiefensis,Cambrian-Lower
+7,324,212,Olenellus chiefensis,Cambrian-Lower
+8,344,182,Olenellus chiefensis,Cambrian-Lower
+9,397,325,Olenellus chiefensis,Cambrian-Lower
+10,409,309,Olenellus chiefensis,Cambrian-Lower
+11,424,292,Olenellus chiefensis,Cambrian-Lower
+1,420,218,Olenellus schucherti,Cambrian-Lower
+2,29,119,Olenellus schucherti,Cambrian-Lower
+3,64,127,Olenellus schucherti,Cambrian-Lower
+4,144,295,Olenellus schucherti,Cambrian-Lower
+5,231,53,Olenellus schucherti,Cambrian-Lower
+6,188,207,Olenellus schucherti,Cambrian-Lower
+7,206,175,Olenellus schucherti,Cambrian-Lower
+8,218,153,Olenellus schucherti,Cambrian-Lower
+9,346,215,Olenellus schucherti,Cambrian-Lower
+10,346,197,Olenellus schucherti,Cambrian-Lower
+11,347,180,Olenellus schucherti,Cambrian-Lower
+1,481,401,Altiocculus drumensis,Cambrian-Middle
+2,190,88,Altiocculus drumensis,Cambrian-Middle
+3,216,122,Altiocculus drumensis,Cambrian-Middle
+4,134,274,Altiocculus drumensis,Cambrian-Middle
+5,402,109,Altiocculus drumensis,Cambrian-Middle
+6,232,200,Altiocculus drumensis,Cambrian-Middle
+7,261,177,Altiocculus drumensis,Cambrian-Middle
+8,284,161,Altiocculus drumensis,Cambrian-Middle
+9,366,338,Altiocculus drumensis,Cambrian-Middle
+10,380,324,Altiocculus drumensis,Cambrian-Middle
+11,403,314,Altiocculus drumensis,Cambrian-Middle
+1,132,119,Coosella Type I,Cambrian-Middle
+2,449,288,Coosella Type I,Cambrian-Middle
+3,415,277,Coosella Type I,Cambrian-Middle
+4,403,122,Coosella Type I,Cambrian-Middle
+5,245,347,Coosella Type I,Cambrian-Middle
+6,366,204,Coosella Type I,Cambrian-Middle
+7,352,237,Coosella Type I,Cambrian-Middle
+8,326,280,Coosella Type I,Cambrian-Middle
+9,274,163,Coosella Type I,Cambrian-Middle
+10,252,189,Coosella Type I,Cambrian-Middle
+11,235,218,Coosella Type I,Cambrian-Middle
+1,246,493,Damesella paronai,Cambrian-Middle
+2,249,56,Damesella paronai,Cambrian-Middle
+3,248,72,Damesella paronai,Cambrian-Middle
+4,77,142,Damesella paronai,Cambrian-Middle
+5,399,146,Damesella paronai,Cambrian-Middle
+6,199,170,Damesella paronai,Cambrian-Middle
+7,242,161,Damesella paronai,Cambrian-Middle
+8,288,171,Damesella paronai,Cambrian-Middle
+9,210,345,Damesella paronai,Cambrian-Middle
+10,245,338,Damesella paronai,Cambrian-Middle
+11,280,341,Damesella paronai,Cambrian-Middle
+1,344,429,Elrathia kingii,Cambrian-Middle
+2,362,22,Elrathia kingii,Cambrian-Middle
+3,362,60,Elrathia kingii,Cambrian-Middle
+4,204,137,Elrathia kingii,Cambrian-Middle
+5,521,144,Elrathia kingii,Cambrian-Middle
+6,317,137,Elrathia kingii,Cambrian-Middle
+7,356,135,Elrathia kingii,Cambrian-Middle
+8,402,138,Elrathia kingii,Cambrian-Middle
+9,325,262,Elrathia kingii,Cambrian-Middle
+10,349,261,Elrathia kingii,Cambrian-Middle
+11,378,262,Elrathia kingii,Cambrian-Middle
+1,65,197,Elrathia marjumi,Cambrian-Middle
+2,502,218,Elrathia marjumi,Cambrian-Middle
+3,454,209,Elrathia marjumi,Cambrian-Middle
+4,340,43,Elrathia marjumi,Cambrian-Middle
+5,334,367,Elrathia marjumi,Cambrian-Middle
+6,371,165,Elrathia marjumi,Cambrian-Middle
+7,369,202,Elrathia marjumi,Cambrian-Middle
+8,369,246,Elrathia marjumi,Cambrian-Middle
+9,229,168,Elrathia marjumi,Cambrian-Middle
+10,227,195,Elrathia marjumi,Cambrian-Middle
+11,228,228,Elrathia marjumi,Cambrian-Middle
+1,538,931,Meneviella venulosa,Cambrian-Middle
+2,379,242,Meneviella venulosa,Cambrian-Middle
+3,391,301,Meneviella venulosa,Cambrian-Middle
+4,246,438,Meneviella venulosa,Cambrian-Middle
+5,581,360,Meneviella venulosa,Cambrian-Middle
+6,372,403,Meneviella venulosa,Cambrian-Middle
+7,410,388,Meneviella venulosa,Cambrian-Middle
+8,455,382,Meneviella venulosa,Cambrian-Middle
+9,454,694,Meneviella venulosa,Cambrian-Middle
+10,481,686,Meneviella venulosa,Cambrian-Middle
+11,511,681,Meneviella venulosa,Cambrian-Middle
+1,137,105,Menomonia semele,Cambrian-Middle
+2,471,395,Menomonia semele,Cambrian-Middle
+3,447,376,Menomonia semele,Cambrian-Middle
+4,491,244,Menomonia semele,Cambrian-Middle
+5,309,421,Menomonia semele,Cambrian-Middle
+6,429,310,Menomonia semele,Cambrian-Middle
+7,407,337,Menomonia semele,Cambrian-Middle
+8,371,356,Menomonia semele,Cambrian-Middle
+9,265,179,Menomonia semele,Cambrian-Middle
+10,246,196,Menomonia semele,Cambrian-Middle
+11,226,216,Menomonia semele,Cambrian-Middle
+1,177,329,Modocia weeksensis,Cambrian-Middle
+2,358,47,Modocia weeksensis,Cambrian-Middle
+3,345,73,Modocia weeksensis,Cambrian-Middle
+4,192,100,Modocia weeksensis,Cambrian-Middle
+5,403,199,Modocia weeksensis,Cambrian-Middle
+6,265,119,Modocia weeksensis,Cambrian-Middle
+7,300,134,Modocia weeksensis,Cambrian-Middle
+8,337,157,Modocia weeksensis,Cambrian-Middle
+9,222,220,Modocia weeksensis,Cambrian-Middle
+10,240,228,Modocia weeksensis,Cambrian-Middle
+11,265,246,Modocia weeksensis,Cambrian-Middle
+1,352,449,Dikelocephalus minnesotensis,Cambrian-Upper
+2,352,62,Dikelocephalus minnesotensis,Cambrian-Upper
+3,352,98,Dikelocephalus minnesotensis,Cambrian-Upper
+4,167,227,Dikelocephalus minnesotensis,Cambrian-Upper
+5,547,231,Dikelocephalus minnesotensis,Cambrian-Upper
+6,308,191,Dikelocephalus minnesotensis,Cambrian-Upper
+7,349,200,Dikelocephalus minnesotensis,Cambrian-Upper
+8,396,196,Dikelocephalus minnesotensis,Cambrian-Upper
+9,301,295,Dikelocephalus minnesotensis,Cambrian-Upper
+10,343,296,Dikelocephalus minnesotensis,Cambrian-Upper
+11,390,296,Dikelocephalus minnesotensis,Cambrian-Upper
+1,235,156,Gerospina schachti,Cambrian-Upper
+2,450,384,Gerospina schachti,Cambrian-Upper
+3,422,355,Gerospina schachti,Cambrian-Upper
+4,456,199,Gerospina schachti,Cambrian-Upper
+5,266,396,Gerospina schachti,Cambrian-Upper
+6,394,255,Gerospina schachti,Cambrian-Upper
+7,368,281,Gerospina schachti,Cambrian-Upper
+8,334,313,Gerospina schachti,Cambrian-Upper
+9,343,221,Gerospina schachti,Cambrian-Upper
+10,321,242,Gerospina schachti,Cambrian-Upper
+11,297,264,Gerospina schachti,Cambrian-Upper
+1,377,935,Pterocephalia norfordi,Cambrian-Upper
+2,424,170,Pterocephalia norfordi,Cambrian-Upper
+3,425,190,Pterocephalia norfordi,Cambrian-Upper
+4,189,333,Pterocephalia norfordi,Cambrian-Upper
+5,629,356,Pterocephalia norfordi,Cambrian-Upper
+6,328,330,Pterocephalia norfordi,Cambrian-Upper
+7,402,344,Pterocephalia norfordi,Cambrian-Upper
+8,480,342,Pterocephalia norfordi,Cambrian-Upper
+9,336,705,Pterocephalia norfordi,Cambrian-Upper
+10,380,706,Pterocephalia norfordi,Cambrian-Upper
+11,437,713,Pterocephalia norfordi,Cambrian-Upper
+1,359,448,Undescribed new species,Cambrian-Upper
+2,279,67,Undescribed new species,Cambrian-Upper
+3,290,90,Undescribed new species,Cambrian-Upper
+4,172,218,Undescribed new species,Cambrian-Upper
+5,436,180,Undescribed new species,Cambrian-Upper
+6,272,199,Undescribed new species,Cambrian-Upper
+7,315,193,Undescribed new species,Cambrian-Upper
+8,354,188,Undescribed new species,Cambrian-Upper
+9,305,339,Undescribed new species,Cambrian-Upper
+10,339,328,Undescribed new species,Cambrian-Upper
+11,370,315,Undescribed new species,Cambrian-Upper
+1,315,237,Anacheirurs (Lehua sp.),Ordovician
+2,45,104,Anacheirurs (Lehua sp.),Ordovician
+3,56,107,Anacheirurs (Lehua sp.),Ordovician
+4,84,262,Anacheirurs (Lehua sp.),Ordovician
+5,192,31,Anacheirurs (Lehua sp.),Ordovician
+6,118,183,Anacheirurs (Lehua sp.),Ordovician
+7,139,148,Anacheirurs (Lehua sp.),Ordovician
+8,144,108,Anacheirurs (Lehua sp.),Ordovician
+9,201,211,Anacheirurs (Lehua sp.),Ordovician
+10,213,182,Anacheirurs (Lehua sp.),Ordovician
+11,225,160,Anacheirurs (Lehua sp.),Ordovician
+1,220,523,Asaphopsoides yongshunensis,Ordovician
+2,222,42,Asaphopsoides yongshunensis,Ordovician
+3,219,87,Asaphopsoides yongshunensis,Ordovician
+4,52,182,Asaphopsoides yongshunensis,Ordovician
+5,396,180,Asaphopsoides yongshunensis,Ordovician
+6,183,164,Asaphopsoides yongshunensis,Ordovician
+7,216,163,Asaphopsoides yongshunensis,Ordovician
+8,259,159,Asaphopsoides yongshunensis,Ordovician
+9,181,288,Asaphopsoides yongshunensis,Ordovician
+10,214,286,Asaphopsoides yongshunensis,Ordovician
+11,255,282,Asaphopsoides yongshunensis,Ordovician
+1,126,234,Bathyurellus teretus,Ordovician
+2,466,187,Bathyurellus teretus,Ordovician
+3,435,190,Bathyurellus teretus,Ordovician
+4,306,90,Bathyurellus teretus,Ordovician
+5,359,315,Bathyurellus teretus,Ordovician
+6,342,171,Bathyurellus teretus,Ordovician
+7,356,204,Bathyurellus teretus,Ordovician
+8,361,236,Bathyurellus teretus,Ordovician
+9,234,188,Bathyurellus teretus,Ordovician
+10,234,210,Bathyurellus teretus,Ordovician
+11,240,249,Bathyurellus teretus,Ordovician
+1,351,346,Ceraurus globulobatus,Ordovician
+2,129,41,Ceraurus globulobatus,Ordovician
+3,146,63,Ceraurus globulobatus,Ordovician
+4,76,208,Ceraurus globulobatus,Ordovician
+5,309,48,Ceraurus globulobatus,Ordovician
+6,158,149,Ceraurus globulobatus,Ordovician
+7,188,125,Ceraurus globulobatus,Ordovician
+8,216,111,Ceraurus globulobatus,Ordovician
+9,214,238,Ceraurus globulobatus,Ordovician
+10,248,214,Ceraurus globulobatus,Ordovician
+11,282,199,Ceraurus globulobatus,Ordovician
+1,328,417,Deanaspis goldfussi,Ordovician
+2,363,118,Deanaspis goldfussi,Ordovician
+3,360,151,Deanaspis goldfussi,Ordovician
+4,157,262,Deanaspis goldfussi,Ordovician
+5,538,302,Deanaspis goldfussi,Ordovician
+6,309,278,Deanaspis goldfussi,Ordovician
+7,343,281,Deanaspis goldfussi,Ordovician
+8,377,283,Deanaspis goldfussi,Ordovician
+9,311,357,Deanaspis goldfussi,Ordovician
+10,335,358,Deanaspis goldfussi,Ordovician
+11,361,364,Deanaspis goldfussi,Ordovician
+1,221,417,Flexicalymene senaria,Ordovician
+2,512,57,Flexicalymene senaria,Ordovician
+3,499,83,Flexicalymene senaria,Ordovician
+4,323,109,Flexicalymene senaria,Ordovician
+5,572,258,Flexicalymene senaria,Ordovician
+6,404,134,Flexicalymene senaria,Ordovician
+7,456,144,Flexicalymene senaria,Ordovician
+8,491,196,Flexicalymene senaria,Ordovician
+9,311,278,Flexicalymene senaria,Ordovician
+10,343,289,Flexicalymene senaria,Ordovician
+11,365,324,Flexicalymene senaria,Ordovician
+1,428,332,Isotelus gigas,Ordovician
+2,40,45,Isotelus gigas,Ordovician
+3,67,66,Isotelus gigas,Ordovician
+4,97,282,Isotelus gigas,Ordovician
+5,287,54,Isotelus gigas,Ordovician
+6,159,200,Isotelus gigas,Ordovician
+7,194,162,Isotelus gigas,Ordovician
+8,230,120,Isotelus gigas,Ordovician
+9,227,259,Isotelus gigas,Ordovician
+10,268,201,Isotelus gigas,Ordovician
+11,313,160,Isotelus gigas,Ordovician
+1,674,107,Isotelus maximus,Ordovician
+2,34,390,Isotelus maximus,Ordovician
+3,80,372,Isotelus maximus,Ordovician
+4,383,522,Isotelus maximus,Ordovician
+5,182,92,Isotelus maximus,Ordovician
+6,294,376,Isotelus maximus,Ordovician
+7,253,301,Isotelus maximus,Ordovician
+8,225,243,Isotelus maximus,Ordovician
+9,398,335,Isotelus maximus,Ordovician
+10,348,256,Isotelus maximus,Ordovician
+11,318,194,Isotelus maximus,Ordovician
+1,338,430,Lehua ponti,Ordovician
+2,316,11,Lehua ponti,Ordovician
+3,316,28,Lehua ponti,Ordovician
+4,149,143,Lehua ponti,Ordovician
+5,491,139,Lehua ponti,Ordovician
+6,271,126,Lehua ponti,Ordovician
+7,321,125,Lehua ponti,Ordovician
+8,373,125,Lehua ponti,Ordovician
+9,289,266,Lehua ponti,Ordovician
+10,326,270,Lehua ponti,Ordovician
+11,368,263,Lehua ponti,Ordovician
+1,139,419,Megistaspis triangularis,Ordovician
+2,459,25,Megistaspis triangularis,Ordovician
+3,400,98,Megistaspis triangularis,Ordovician
+4,231,93,Megistaspis triangularis,Ordovician
+5,435,260,Megistaspis triangularis,Ordovician
+6,304,145,Megistaspis triangularis,Ordovician
+7,327,167,Megistaspis triangularis,Ordovician
+8,366,197,Megistaspis triangularis,Ordovician
+9,221,265,Megistaspis triangularis,Ordovician
+10,243,281,Megistaspis triangularis,Ordovician
+11,265,305,Megistaspis triangularis,Ordovician
+1,222,210,Paraceraurus aculeatus,Ordovician
+2,676,383,Paraceraurus aculeatus,Ordovician
+3,657,377,Paraceraurus aculeatus,Ordovician
+4,587,155,Paraceraurus aculeatus,Ordovician
+5,482,497,Paraceraurus aculeatus,Ordovician
+6,557,278,Paraceraurus aculeatus,Ordovician
+7,552,322,Paraceraurus aculeatus,Ordovician
+8,527,358,Paraceraurus aculeatus,Ordovician
+9,407,232,Paraceraurus aculeatus,Ordovician
+10,401,265,Paraceraurus aculeatus,Ordovician
+11,386,301,Paraceraurus aculeatus,Ordovician
+1,57,251,Pseudoasaphus tecticaudatus,Ordovician
+2,444,63,Pseudoasaphus tecticaudatus,Ordovician
+3,415,75,Pseudoasaphus tecticaudatus,Ordovician
+4,237,29,Pseudoasaphus tecticaudatus,Ordovician
+5,365,247,Pseudoasaphus tecticaudatus,Ordovician
+6,282,96,Pseudoasaphus tecticaudatus,Ordovician
+7,294,127,Pseudoasaphus tecticaudatus,Ordovician
+8,325,163,Pseudoasaphus tecticaudatus,Ordovician
+9,161,175,Pseudoasaphus tecticaudatus,Ordovician
+10,175,195,Pseudoasaphus tecticaudatus,Ordovician
+11,188,233,Pseudoasaphus tecticaudatus,Ordovician
+1,632,278,Pseudomera cf. barrandei,Ordovician
+2,67,229,Pseudomera cf. barrandei,Ordovician
+3,89,228,Pseudomera cf. barrandei,Ordovician
+4,198,436,Pseudomera cf. barrandei,Ordovician
+5,222,124,Pseudomera cf. barrandei,Ordovician
+6,217,284,Pseudomera cf. barrandei,Ordovician
+7,189,225,Pseudomera cf. barrandei,Ordovician
+8,222,185,Pseudomera cf. barrandei,Ordovician
+9,418,302,Pseudomera cf. barrandei,Ordovician
+10,404,247,Pseudomera cf. barrandei,Ordovician
+11,424,209,Pseudomera cf. barrandei,Ordovician
+1,457,362,Arctinurus boltoni,Silurian
+2,52,116,Arctinurus boltoni,Silurian
+3,72,126,Arctinurus boltoni,Silurian
+4,61,336,Arctinurus boltoni,Silurian
+5,281,23,Arctinurus boltoni,Silurian
+6,146,216,Arctinurus boltoni,Silurian
+7,171,178,Arctinurus boltoni,Silurian
+8,212,127,Arctinurus boltoni,Silurian
+9,231,301,Arctinurus boltoni,Silurian
+10,265,242,Arctinurus boltoni,Silurian
+11,305,189,Arctinurus boltoni,Silurian
+1,427,415,Aulacopleura koninicki,Silurian
+2,138,107,Aulacopleura koninicki,Silurian
+3,192,163,Aulacopleura koninicki,Silurian
+4,90,314,Aulacopleura koninicki,Silurian
+5,327,68,Aulacopleura koninicki,Silurian
+6,217,233,Aulacopleura koninicki,Silurian
+7,237,211,Aulacopleura koninicki,Silurian
+8,256,185,Aulacopleura koninicki,Silurian
+9,314,331,Aulacopleura koninicki,Silurian
+10,328,314,Aulacopleura koninicki,Silurian
+11,347,294,Aulacopleura koninicki,Silurian
+1,82,374,Calymene blumenbachii,Silurian
+2,413,137,Calymene blumenbachii,Silurian
+3,404,142,Calymene blumenbachii,Silurian
+4,257,114,Calymene blumenbachii,Silurian
+5,396,285,Calymene blumenbachii,Silurian
+6,303,164,Calymene blumenbachii,Silurian
+7,347,181,Calymene blumenbachii,Silurian
+8,359,230,Calymene blumenbachii,Silurian
+9,165,268,Calymene blumenbachii,Silurian
+10,197,282,Calymene blumenbachii,Silurian
+11,212,318,Calymene blumenbachii,Silurian
+1,451,137,Radnoria,Silurian
+2,115,394,Radnoria,Silurian
+3,167,360,Radnoria,Silurian
+4,338,421,Radnoria,Silurian
+5,120,188,Radnoria,Silurian
+6,272,327,Radnoria,Silurian
+7,246,295,Radnoria,Silurian
+8,211,256,Radnoria,Silurian
+9,375,234,Radnoria,Silurian
+10,353,204,Radnoria,Silurian
+11,334,174,Radnoria,Silurian
+1,539,949, Metacanthina issoumourensis,Devonian
+2,238,42, Metacanthina issoumourensis,Devonian
+3,249,99, Metacanthina issoumourensis,Devonian
+4,85,452, Metacanthina issoumourensis,Devonian
+5,624,308, Metacanthina issoumourensis,Devonian
+6,269,367, Metacanthina issoumourensis,Devonian
+7,319,326, Metacanthina issoumourensis,Devonian
+8,397,333, Metacanthina issoumourensis,Devonian
+9,373,716, Metacanthina issoumourensis,Devonian
+10,444,678, Metacanthina issoumourensis,Devonian
+11,520,657, Metacanthina issoumourensis,Devonian
+1,416,1063,Bellacartwrightia whiteleyi,Devonian
+2,535,24,Bellacartwrightia whiteleyi,Devonian
+3,521,81,Bellacartwrightia whiteleyi,Devonian
+4,151,339,Bellacartwrightia whiteleyi,Devonian
+5,844,430,Bellacartwrightia whiteleyi,Devonian
+6,381,344,Bellacartwrightia whiteleyi,Devonian
+7,475,327,Bellacartwrightia whiteleyi,Devonian
+8,555,365,Bellacartwrightia whiteleyi,Devonian
+9,383,794,Bellacartwrightia whiteleyi,Devonian
+10,436,783,Bellacartwrightia whiteleyi,Devonian
+11,513,814,Bellacartwrightia whiteleyi,Devonian
+1,484,343,Dechenella burmeisteri,Devonian
+2,124,135,Dechenella burmeisteri,Devonian
+3,148,151,Dechenella burmeisteri,Devonian
+4,152,342,Dechenella burmeisteri,Devonian
+5,326,73,Dechenella burmeisteri,Devonian
+6,206,221,Dechenella burmeisteri,Devonian
+7,223,178,Dechenella burmeisteri,Devonian
+8,265,159,Dechenella burmeisteri,Devonian
+9,344,292,Dechenella burmeisteri,Devonian
+10,362,260,Dechenella burmeisteri,Devonian
+11,381,238,Dechenella burmeisteri,Devonian
+1,434,368,Greenops boothi,Devonian
+2,110,105,Greenops boothi,Devonian
+3,119,111,Greenops boothi,Devonian
+4,129,279,Greenops boothi,Devonian
+5,299,98,Greenops boothi,Devonian
+6,176,206,Greenops boothi,Devonian
+7,192,176,Greenops boothi,Devonian
+8,221,160,Greenops boothi,Devonian
+9,284,303,Greenops boothi,Devonian
+10,300,267,Greenops boothi,Devonian
+11,329,248,Greenops boothi,Devonian
+1,200,510,Odontocephalus ageria,Devonian
+2,193,26,Odontocephalus ageria,Devonian
+3,194,75,Odontocephalus ageria,Devonian
+4,27,174,Odontocephalus ageria,Devonian
+5,369,221,Odontocephalus ageria,Devonian
+6,159,179,Odontocephalus ageria,Devonian
+7,193,175,Odontocephalus ageria,Devonian
+8,233,188,Odontocephalus ageria,Devonian
+9,160,381,Odontocephalus ageria,Devonian
+10,199,387,Odontocephalus ageria,Devonian
+11,241,394,Odontocephalus ageria,Devonian
