@@ -1,2 +1,2 @@
 # Summer-Project-csv
-Place to store summer project csv file
+A place to store my summer project csv files
