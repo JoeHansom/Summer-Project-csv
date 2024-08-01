@@ -1,0 +1,761 @@
+Index,Landmark,X,Y,Type
+1,1,539,383,Sycamore
+1,2,18,295,Sycamore
+1,3,582,118,Sycamore
+1,4,248,19,Sycamore
+1,5,146,633,Sycamore
+1,6,494,605,Sycamore
+1,7,527,195,Sycamore
+1,8,325,234,Sycamore
+1,9,263,453,Sycamore
+1,10,461,552,Sycamore
+2,1,285,82,Sycamore
+2,2,387,392,Sycamore
+2,3,89,150,Sycamore
+2,4,143,353,Sycamore
+2,5,554,246,Sycamore
+2,6,468,47,Sycamore
+2,7,152,163,Sycamore
+2,8,248,291,Sycamore
+2,9,436,257,Sycamore
+2,10,440,86,Sycamore
+3,1,324,227,Sycamore
+3,2,562,240,Sycamore
+3,3,334,334,Sycamore
+3,4,478,376,Sycamore
+3,5,513,92,Sycamore
+3,6,352,107,Sycamore
+3,7,350,318,Sycamore
+3,8,442,283,Sycamore
+3,9,448,188,Sycamore
+3,10,368,131,Sycamore
+4,1,580,417,Sycamore
+4,2,607,1358,Sycamore
+4,3,68,495,Sycamore
+4,4,31,1079,Sycamore
+4,5,1143,1058,Sycamore
+4,6,1218,493,Sycamore
+4,7,186,559,Sycamore
+4,8,362,916,Sycamore
+4,9,807,906,Sycamore
+4,10,1028,535,Sycamore
+5,1,242,196,Sycamore
+5,2,466,146,Sycamore
+5,3,252,335,Sycamore
+5,4,422,335,Sycamore
+5,5,332,17,Sycamore
+5,6,170,87,Sycamore
+5,7,278,294,Sycamore
+5,8,379,231,Sycamore
+5,9,345,118,Sycamore
+5,10,227,104,Sycamore
+6,1,279,269,Sycamore
+6,2,503,77,Sycamore
+6,3,386,363,Sycamore
+6,4,520,258,Sycamore
+6,5,293,26,Sycamore
+6,6,199,154,Sycamore
+6,7,373,320,Sycamore
+6,8,416,227,Sycamore
+6,9,330,133,Sycamore
+6,10,230,166,Sycamore
+7,1,441,329,Sycamore
+7,2,41,599,Sycamore
+7,3,363,78,Sycamore
+7,4,75,203,Sycamore
+7,5,376,756,Sycamore
+7,6,573,529,Sycamore
+7,7,347,179,Sycamore
+7,8,197,349,Sycamore
+7,9,354,506,Sycamore
+7,10,523,495,Sycamore
+8,1,506,113,Sycamore
+8,2,374,742,Sycamore
+8,3,186,66,Sycamore
+8,4,36,442,Sycamore
+8,5,826,556,Sycamore
+8,6,813,181,Sycamore
+8,7,282,132,Sycamore
+8,8,332,341,Sycamore
+8,9,572,360,Sycamore
+8,10,713,205,Sycamore
+9,1,510,403,Sycamore
+9,2,551,38,Sycamore
+9,3,754,482,Sycamore
+9,4,800,199,Sycamore
+9,5,264,167,Sycamore
+9,6,226,467,Sycamore
+9,7,701,394,Sycamore
+9,8,636,237,Sycamore
+9,9,397,236,Sycamore
+9,10,310,391,Sycamore
+10,1,246,55,Sycamore
+10,2,332,375,Sycamore
+10,3,38,186,Sycamore
+10,4,112,352,Sycamore
+10,5,431,254,Sycamore
+10,6,421,95,Sycamore
+10,7,132,167,Sycamore
+10,8,215,189,Sycamore
+10,9,305,179,Sycamore
+10,10,355,122,Sycamore
+11,1,237,301,Sycamore
+11,2,246,114,Sycamore
+11,3,327,294,Sycamore
+11,4,351,185,Sycamore
+11,5,133,212,Sycamore
+11,6,158,294,Sycamore
+11,7,288,276,Sycamore
+11,8,263,233,Sycamore
+11,9,207,241,Sycamore
+11,10,187,286,Sycamore
+12,1,70,110,Sycamore
+12,2,205,131,Sycamore
+12,3,46,178,Sycamore
+12,4,132,201,Sycamore
+12,5,159,20,Sycamore
+12,6,46,32,Sycamore
+12,7,68,161,Sycamore
+12,8,134,153,Sycamore
+12,9,134,83,Sycamore
+12,10,75,53,Sycamore
+13,1,353,118,Sycamore
+13,2,288,512,Sycamore
+13,3,17,109,Sycamore
+13,4,74,340,Sycamore
+13,5,509,456,Sycamore
+13,6,633,267,Sycamore
+13,7,164,149,Sycamore
+13,8,240,276,Sycamore
+13,9,381,312,Sycamore
+13,10,507,240,Sycamore
+14,1,951,554,Sugar Maple
+14,2,295,790,Sugar Maple
+14,3,923,252,Sugar Maple
+14,4,444,327,Sugar Maple
+14,5,710,1172,Sugar Maple
+14,6,1167,804,Sugar Maple
+14,7,857,366,Sugar Maple
+14,8,580,523,Sugar Maple
+14,9,687,825,Sugar Maple
+14,10,1049,783,Sugar Maple
+15,1,491,628,Sugar Maple
+15,2,485,22,Sugar Maple
+15,3,770,637,Sugar Maple
+15,4,829,220,Sugar Maple
+15,5,160,228,Sugar Maple
+15,6,262,620,Sugar Maple
+15,7,681,578,Sugar Maple
+15,8,601,326,Sugar Maple
+15,9,368,319,Sugar Maple
+15,10,309,583,Sugar Maple
+16,1,147,143,Sugar Maple
+16,2,146,10,Sugar Maple
+16,3,221,132,Sugar Maple
+16,4,217,43,Sugar Maple
+16,5,77,44,Sugar Maple
+16,6,71,134,Sugar Maple
+16,7,196,116,Sugar Maple
+16,8,172,69,Sugar Maple
+16,9,122,68,Sugar Maple
+16,10,98,119,Sugar Maple
+17,1,504,164,Sugar Maple
+17,2,270,629,Sugar Maple
+17,3,120,78,Sugar Maple
+17,4,71,383,Sugar Maple
+17,5,560,674,Sugar Maple
+17,6,787,449,Sugar Maple
+17,7,236,165,Sugar Maple
+17,8,284,345,Sugar Maple
+17,9,466,460,Sugar Maple
+17,10,655,360,Sugar Maple
+18,1,477,129,Sugar Maple
+18,2,526,895,Sugar Maple
+18,3,203,129,Sugar Maple
+18,4,137,639,Sugar Maple
+18,5,902,607,Sugar Maple
+18,6,800,85,Sugar Maple
+18,7,289,192,Sugar Maple
+18,8,363,483,Sugar Maple
+18,9,632,467,Sugar Maple
+18,10,676,173,Sugar Maple
+19,1,240,306,Sugar Maple
+19,2,456,364,Sugar Maple
+19,3,460,138,Sugar Maple
+19,4,249,12,Sugar Maple
+19,5,29,141,Sugar Maple
+19,6,19,344,Sugar Maple
+19,7,369,291,Sugar Maple
+19,8,300,170,Sugar Maple
+19,9,167,178,Sugar Maple
+19,10,100,295,Sugar Maple
+20,1,1149,537,Sugar Maple
+20,2,44,533,Sugar Maple
+20,3,1099,99,Sugar Maple
+20,4,301,21,Sugar Maple
+20,5,463,1264,Sugar Maple
+20,6,1140,1031,Sugar Maple
+20,7,1023,183,Sugar Maple
+20,8,600,352,Sugar Maple
+20,9,650,782,Sugar Maple
+20,10,1034,920,Sugar Maple
+21,1,252,400,Sugar Maple
+21,2,261,81,Sugar Maple
+21,3,427,350,Sugar Maple
+21,4,433,161,Sugar Maple
+21,5,79,161,Sugar Maple
+21,6,50,349,Sugar Maple
+21,7,381,332,Sugar Maple
+21,8,324,195,Sugar Maple
+21,9,184,221,Sugar Maple
+21,10,110,324,Sugar Maple
+22,1,131,111,Sugar Maple
+22,2,45,34,Sugar Maple
+22,3,172,47,Sugar Maple
+22,4,114,5,Sugar Maple
+22,5,17,93,Sugar Maple
+22,6,68,148,Sugar Maple
+22,7,152,61,Sugar Maple
+22,8,100,51,Sugar Maple
+22,9,68,86,Sugar Maple
+22,10,71,130,Sugar Maple
+23,1,254,196,Sugar Maple
+23,2,474,162,Sugar Maple
+23,3,253,289,Sugar Maple
+23,4,402,315,Sugar Maple
+23,5,381,45,Sugar Maple
+23,6,237,107,Sugar Maple
+23,7,280,255,Sugar Maple
+23,8,354,227,Sugar Maple
+23,9,343,145,Sugar Maple
+23,10,261,134,Sugar Maple
+24,1,185,107,Sugar Maple
+24,2,231,327,Sugar Maple
+24,3,86,108,Sugar Maple
+24,4,63,245,Sugar Maple
+24,5,340,220,Sugar Maple
+24,6,293,77,Sugar Maple
+24,7,129,134,Sugar Maple
+24,8,172,169,Sugar Maple
+24,9,221,152,Sugar Maple
+24,10,251,116,Sugar Maple
+25,1,188,137,Sugar Maple
+25,2,449,259,Sugar Maple
+25,3,64,228,Sugar Maple
+25,4,263,380,Sugar Maple
+25,5,411,108,Sugar Maple
+25,6,238,17,Sugar Maple
+25,7,150,218,Sugar Maple
+25,8,246,218,Sugar Maple
+25,9,273,146,Sugar Maple
+25,10,243,73,Sugar Maple
+26,1,116,157,Sugar Maple
+26,2,396,294,Sugar Maple
+26,3,38,256,Sugar Maple
+26,4,198,383,Sugar Maple
+26,5,362,96,Sugar Maple
+26,6,189,27,Sugar Maple
+26,7,93,241,Sugar Maple
+26,8,177,229,Sugar Maple
+26,9,237,166,Sugar Maple
+26,10,187,94,Sugar Maple
+27,1,185,172,Pin Oak
+27,2,398,116,Pin Oak
+27,3,245,228,Pin Oak
+27,4,355,248,Pin Oak
+27,5,286,28,Pin Oak
+27,6,190,92,Pin Oak
+27,7,240,176,Pin Oak
+27,8,317,167,Pin Oak
+27,9,298,110,Pin Oak
+27,10,220,149,Pin Oak
+28,1,430,731,Pin Oak
+28,2,52,149,Pin Oak
+28,3,595,500,Pin Oak
+28,4,546,231,Pin Oak
+28,5,6,348,Pin Oak
+28,6,11,650,Pin Oak
+28,7,399,571,Pin Oak
+28,8,335,402,Pin Oak
+28,9,145,318,Pin Oak
+28,10,251,500,Pin Oak
+29,1,1262,532,Pin Oak
+29,2,131,447,Pin Oak
+29,3,955,91,Pin Oak
+29,4,562,32,Pin Oak
+29,5,395,981,Pin Oak
+29,6,827,1019,Pin Oak
+29,7,942,437,Pin Oak
+29,8,645,370,Pin Oak
+29,9,557,671,Pin Oak
+29,10,869,648,Pin Oak
+30,1,274,499,Pin Oak
+30,2,238,24,Pin Oak
+30,3,477,343,Pin Oak
+30,4,530,287,Pin Oak
+30,5,4,258,Pin Oak
+30,6,106,383,Pin Oak
+30,7,282,444,Pin Oak
+30,8,289,336,Pin Oak
+30,9,248,334,Pin Oak
+30,10,249,447,Pin Oak
+31,1,1879,829,Pin Oak
+31,2,14,935,Pin Oak
+31,3,1228,91,Pin Oak
+31,4,595,44,Pin Oak
+31,5,370,1474,Pin Oak
+31,6,831,1666,Pin Oak
+31,7,1405,655,Pin Oak
+31,8,880,617,Pin Oak
+31,9,834,870,Pin Oak
+31,10,1336,932,Pin Oak
+32,1,532,429,Pin Oak
+32,2,111,110,Pin Oak
+32,3,463,77,Pin Oak
+32,4,307,36,Pin Oak
+32,5,102,260,Pin Oak
+32,6,162,421,Pin Oak
+32,7,396,221,Pin Oak
+32,8,281,165,Pin Oak
+32,9,208,220,Pin Oak
+32,10,325,313,Pin Oak
+33,1,185,117,Pin Oak
+33,2,493,818,Pin Oak
+33,3,84,378,Pin Oak
+33,4,112,780,Pin Oak
+33,5,666,576,Pin Oak
+33,6,455,253,Pin Oak
+33,7,199,340,Pin Oak
+33,8,265,605,Pin Oak
+33,9,429,536,Pin Oak
+33,10,335,297,Pin Oak
+34,1,633,155,Pin Oak
+34,2,271,871,Pin Oak
+34,3,176,101,Pin Oak
+34,4,25,479,Pin Oak
+34,5,745,779,Pin Oak
+34,6,874,443,Pin Oak
+34,7,426,299,Pin Oak
+34,8,256,516,Pin Oak
+34,9,510,634,Pin Oak
+34,10,611,387,Pin Oak
+35,1,354,815,Pin Oak
+35,2,440,7,Pin Oak
+35,3,664,593,Pin Oak
+35,4,712,232,Pin Oak
+35,5,71,156,Pin Oak
+35,6,52,516,Pin Oak
+35,7,427,602,Pin Oak
+35,8,460,380,Pin Oak
+35,9,326,353,Pin Oak
+35,10,303,624,Pin Oak
+36,1,39,16,Pin Oak
+36,2,133,240,Pin Oak
+36,3,5,79,Pin Oak
+36,4,29,196,Pin Oak
+36,5,172,128,Pin Oak
+36,6,109,58,Pin Oak
+36,7,45,68,Pin Oak
+36,8,76,158,Pin Oak
+36,9,131,141,Pin Oak
+36,10,86,73,Pin Oak
+37,1,537,1054,Pin Oak
+37,2,656,46,Pin Oak
+37,3,951,861,Pin Oak
+37,4,1009,456,Pin Oak
+37,5,118,332,Pin Oak
+37,6,109,849,Pin Oak
+37,7,643,875,Pin Oak
+37,8,633,573,Pin Oak
+37,9,477,646,Pin Oak
+37,10,458,910,Pin Oak
+38,1,480,1156,Pin Oak
+38,2,585,154,Pin Oak
+38,3,965,692,Pin Oak
+38,4,828,353,Pin Oak
+38,5,284,311,Pin Oak
+38,6,106,515,Pin Oak
+38,7,596,796,Pin Oak
+38,8,616,507,Pin Oak
+38,9,492,485,Pin Oak
+38,10,413,731,Pin Oak
+39,1,288,220,American Sweetgum
+39,2,541,228,American Sweetgum
+39,3,247,351,American Sweetgum
+39,4,403,392,American Sweetgum
+39,5,418,71,American Sweetgum
+39,6,262,78,American Sweetgum
+39,7,308,305,American Sweetgum
+39,8,391,274,American Sweetgum
+39,9,388,171,American Sweetgum
+39,10,321,139,American Sweetgum
+40,1,121,116,American Sweetgum
+40,2,40,6,American Sweetgum
+40,3,198,92,American Sweetgum
+40,4,159,1,American Sweetgum
+40,5,3,119,American Sweetgum
+40,6,74,184,American Sweetgum
+40,7,153,86,American Sweetgum
+40,8,109,58,American Sweetgum
+40,9,72,94,American Sweetgum
+40,10,84,136,American Sweetgum
+41,1,230,402,American Sweetgum
+41,2,524,60,American Sweetgum
+41,3,430,590,American Sweetgum
+41,4,602,373,American Sweetgum
+41,5,254,42,American Sweetgum
+41,6,43,267,American Sweetgum
+41,7,347,438,American Sweetgum
+41,8,384,323,American Sweetgum
+41,9,280,252,American Sweetgum
+41,10,188,289,American Sweetgum
+42,1,129,154,American Sweetgum
+42,2,127,1,American Sweetgum
+42,3,248,170,American Sweetgum
+42,4,232,58,American Sweetgum
+42,5,21,73,American Sweetgum
+42,6,22,190,American Sweetgum
+42,7,190,135,American Sweetgum
+42,8,160,82,American Sweetgum
+42,9,94,86,American Sweetgum
+42,10,66,138,American Sweetgum
+43,1,780,516,American Sweetgum
+43,2,200,1146,American Sweetgum
+43,3,431,83,American Sweetgum
+43,4,51,413,American Sweetgum
+43,5,1014,1167,American Sweetgum
+43,6,1228,706,American Sweetgum
+43,7,461,408,American Sweetgum
+43,8,402,692,American Sweetgum
+43,9,668,921,American Sweetgum
+43,10,948,775,American Sweetgum
+44,1,198,51,American Sweetgum
+44,2,194,258,American Sweetgum
+44,3,84,37,American Sweetgum
+44,4,62,168,American Sweetgum
+44,5,288,177,American Sweetgum
+44,6,292,51,American Sweetgum
+44,7,126,70,American Sweetgum
+44,8,150,137,American Sweetgum
+44,9,228,126,American Sweetgum
+44,10,258,82,American Sweetgum
+45,1,393,215,American Sweetgum
+45,2,421,504,American Sweetgum
+45,3,199,195,American Sweetgum
+45,4,197,402,American Sweetgum
+45,5,612,356,American Sweetgum
+45,6,566,138,American Sweetgum
+45,7,296,250,American Sweetgum
+45,8,352,355,American Sweetgum
+45,9,466,335,American Sweetgum
+45,10,501,231,American Sweetgum
+46,1,418,496,American Sweetgum
+46,2,626,1151,American Sweetgum
+46,3,77,558,American Sweetgum
+46,4,136,882,American Sweetgum
+46,5,865,783,American Sweetgum
+46,6,723,445,American Sweetgum
+46,7,297,602,American Sweetgum
+46,8,393,734,American Sweetgum
+46,9,540,692,American Sweetgum
+46,10,577,545,American Sweetgum
+47,1,304,468,American Sweetgum
+47,2,312,11,American Sweetgum
+47,3,546,511,American Sweetgum
+47,4,567,234,American Sweetgum
+47,5,46,255,American Sweetgum
+47,6,105,541,American Sweetgum
+47,7,406,431,American Sweetgum
+47,8,355,335,American Sweetgum
+47,9,241,330,American Sweetgum
+47,10,203,432,American Sweetgum
+48,1,290,228,American Sweetgum
+48,2,544,741,American Sweetgum
+48,3,69,378,American Sweetgum
+48,4,106,563,American Sweetgum
+48,5,704,342,American Sweetgum
+48,6,540,93,American Sweetgum
+48,7,156,390,American Sweetgum
+48,8,278,519,American Sweetgum
+48,9,531,403,American Sweetgum
+48,10,535,192,American Sweetgum
+49,1,312,225,American Sweetgum
+49,2,558,213,American Sweetgum
+49,3,292,361,American Sweetgum
+49,4,447,371,American Sweetgum
+49,5,423,58,American Sweetgum
+49,6,270,102,American Sweetgum
+49,7,343,300,American Sweetgum
+49,8,405,273,American Sweetgum
+49,9,412,174,American Sweetgum
+49,10,329,148,American Sweetgum
+50,1,268,229,American Sweetgum
+50,2,262,25,American Sweetgum
+50,3,381,261,American Sweetgum
+50,4,403,119,American Sweetgum
+50,5,133,163,American Sweetgum
+50,6,152,266,American Sweetgum
+50,7,320,212,American Sweetgum
+50,8,296,158,American Sweetgum
+50,9,227,158,American Sweetgum
+50,10,204,213,American Sweetgum
+51,1,646,560,American Sweetgum
+51,2,643,58,American Sweetgum
+51,3,957,628,American Sweetgum
+51,4,990,295,American Sweetgum
+51,5,311,253,American Sweetgum
+51,6,310,607,American Sweetgum
+51,7,826,513,American Sweetgum
+51,8,747,323,American Sweetgum
+51,9,529,324,American Sweetgum
+51,10,461,494,American Sweetgum
+52,1,677,782,American Sweetgum
+52,2,271,10,American Sweetgum
+52,3,1026,525,American Sweetgum
+52,4,842,99,American Sweetgum
+52,5,30,610,American Sweetgum
+52,6,294,938,American Sweetgum
+52,7,855,531,American Sweetgum
+52,8,613,336,American Sweetgum
+52,9,349,529,American Sweetgum
+52,10,371,824,American Sweetgum
+53,1,706,959,American Sweetgum
+53,2,376,34,American Sweetgum
+53,3,1146,830,American Sweetgum
+53,4,1090,256,American Sweetgum
+53,5,17,811,American Sweetgum
+53,6,366,1140,American Sweetgum
+53,7,994,749,American Sweetgum
+53,8,752,473,American Sweetgum
+53,9,375,659,American Sweetgum
+53,10,406,1014,American Sweetgum
+54,1,779,313,American Sweetgum
+54,2,19,570,American Sweetgum
+54,3,573,19,American Sweetgum
+54,4,253,94,American Sweetgum
+54,5,666,985,American Sweetgum
+54,6,937,630,American Sweetgum
+54,7,582,140,American Sweetgum
+54,8,469,297,American Sweetgum
+54,9,543,589,American Sweetgum
+54,10,817,572,American Sweetgum
+55,1,217,262,White Poplar
+55,2,441,168,White Poplar
+55,3,319,366,White Poplar
+55,4,418,296,White Poplar
+55,5,339,104,White Poplar
+55,6,221,116,White Poplar
+55,7,316,331,White Poplar
+55,8,371,260,White Poplar
+55,9,326,159,White Poplar
+55,10,240,150,White Poplar
+56,1,717,693,White Poplar
+56,2,1764,559,White Poplar
+56,3,1230,1390,White Poplar
+56,4,1573,1020,White Poplar
+56,5,1531,380,White Poplar
+56,6,1246,73,White Poplar
+56,7,1220,1076,White Poplar
+56,8,1545,882,White Poplar
+56,9,1536,471,White Poplar
+56,10,1273,358,White Poplar
+57,1,574,217,White Poplar
+57,2,792,712,White Poplar
+57,3,354,367,White Poplar
+57,4,491,596,White Poplar
+57,5,896,448,White Poplar
+57,6,833,249,White Poplar
+57,7,426,371,White Poplar
+57,8,564,450,White Poplar
+57,9,756,402,White Poplar
+57,10,789,287,White Poplar
+58,1,649,307,White Poplar
+58,2,36,419,White Poplar
+58,3,551,36,White Poplar
+58,4,293,29,White Poplar
+58,5,351,647,White Poplar
+58,6,641,574,White Poplar
+58,7,522,99,White Poplar
+58,8,329,231,White Poplar
+58,9,384,487,White Poplar
+58,10,585,517,White Poplar
+59,1,499,272,White Poplar
+59,2,43,252,White Poplar
+59,3,407,59,White Poplar
+59,4,246,35,White Poplar
+59,5,178,481,White Poplar
+59,6,350,553,White Poplar
+59,7,401,97,White Poplar
+59,8,273,160,White Poplar
+59,9,263,373,White Poplar
+59,10,320,497,White Poplar
+60,1,115,359,White Poplar
+60,2,438,98,White Poplar
+60,3,294,442,White Poplar
+60,4,435,345,White Poplar
+60,5,202,5,White Poplar
+60,6,67,89,White Poplar
+60,7,308,398,White Poplar
+60,8,363,293,White Poplar
+60,9,239,137,White Poplar
+60,10,109,108,White Poplar
+61,1,937,2581,White Poplar
+61,2,2483,1457,White Poplar
+61,3,1822,3046,White Poplar
+61,4,2406,2526,White Poplar
+61,5,1188,1072,White Poplar
+61,6,559,1831,White Poplar
+61,7,1827,2865,White Poplar
+61,8,2218,2330,White Poplar
+61,9,1420,1449,White Poplar
+61,10,799,1807,White Poplar
+62,1,274,444,White Poplar
+62,2,902,61,White Poplar
+62,3,476,720,White Poplar
+62,4,842,454,White Poplar
+62,5,442,32,White Poplar
+62,6,227,116,White Poplar
+62,7,484,668,White Poplar
+62,8,631,462,White Poplar
+62,9,437,187,White Poplar
+62,10,286,143,White Poplar
+63,1,828,1199,White Poplar
+63,2,590,103,White Poplar
+63,3,1295,795,White Poplar
+63,4,1087,401,White Poplar
+63,5,175,642,White Poplar
+63,6,300,1256,White Poplar
+63,7,1171,765,White Poplar
+63,8,908,565,White Poplar
+63,9,486,726,White Poplar
+63,10,351,1120,White Poplar
+64,1,514,289,White Poplar
+64,2,775,1490,White Poplar
+64,3,69,596,White Poplar
+64,4,289,1018,White Poplar
+64,5,1219,609,White Poplar
+64,6,959,261,White Poplar
+64,7,205,641,White Poplar
+64,8,453,943,White Poplar
+64,9,1042,719,White Poplar
+64,10,940,312,White Poplar
+65,1,148,172,White Poplar
+65,2,142,18,White Poplar
+65,3,222,159,White Poplar
+65,4,229,92,White Poplar
+65,5,47,109,White Poplar
+65,6,72,165,White Poplar
+65,7,215,149,White Poplar
+65,8,175,96,White Poplar
+65,9,106,103,White Poplar
+65,10,81,153,White Poplar
+66,1,377,159,White Poplar
+66,2,473,627,White Poplar
+66,3,213,267,White Poplar
+66,4,270,489,White Poplar
+66,5,608,502,White Poplar
+66,6,687,251,White Poplar
+66,7,257,306,White Poplar
+66,8,343,414,White Poplar
+66,9,497,405,White Poplar
+66,10,597,280,White Poplar
+67,1,673,744,White Poplar
+67,2,698,46,White Poplar
+67,3,1008,665,White Poplar
+67,4,1050,331,White Poplar
+67,5,391,296,White Poplar
+67,6,398,669,White Poplar
+67,7,935,614,White Poplar
+67,8,858,350,White Poplar
+67,9,504,367,White Poplar
+67,10,441,608,White Poplar
+68,1,297,108,Horse Chestnut
+68,2,312,293,Horse Chestnut
+68,3,199,101,Horse Chestnut
+68,4,171,228,Horse Chestnut
+68,5,426,221,Horse Chestnut
+68,6,393,86,Horse Chestnut
+68,7,290,114,Horse Chestnut
+68,8,295,120,Horse Chestnut
+68,9,304,121,Horse Chestnut
+68,10,306,111,Horse Chestnut
+69,1,676,241,Horse Chestnut
+69,2,581,1026,Horse Chestnut
+69,3,14,130,Horse Chestnut
+69,4,84,830,Horse Chestnut
+69,5,1186,924,Horse Chestnut
+69,6,1395,359,Horse Chestnut
+69,7,655,254,Horse Chestnut
+69,8,663,274,Horse Chestnut
+69,9,684,270,Horse Chestnut
+69,10,701,259,Horse Chestnut
+70,1,297,475,Horse Chestnut
+70,2,539,14,Horse Chestnut
+70,3,381,722,Horse Chestnut
+70,4,695,469,Horse Chestnut
+70,5,138,57,Horse Chestnut
+70,6,16,396,Horse Chestnut
+70,7,319,465,Horse Chestnut
+70,8,334,448,Horse Chestnut
+70,9,312,443,Horse Chestnut
+70,10,298,449,Horse Chestnut
+71,1,259,343,Horse Chestnut
+71,2,264,14,Horse Chestnut
+71,3,486,348,Horse Chestnut
+71,4,466,108,Horse Chestnut
+71,5,60,72,Horse Chestnut
+71,6,13,305,Horse Chestnut
+71,7,292,322,Horse Chestnut
+71,8,268,318,Horse Chestnut
+71,9,249,309,Horse Chestnut
+71,10,204,306,Horse Chestnut
+72,1,296,226,Horse Chestnut
+72,2,550,224,Horse Chestnut
+72,3,304,400,Horse Chestnut
+72,4,473,380,Horse Chestnut
+72,5,451,42,Horse Chestnut
+72,6,266,67,Horse Chestnut
+72,7,309,233,Horse Chestnut
+72,8,316,231,Horse Chestnut
+72,9,313,222,Horse Chestnut
+72,10,308,220,Horse Chestnut
+73,1,154,215,Horse Chestnut
+73,2,146,5,Horse Chestnut
+73,3,247,250,Horse Chestnut
+73,4,291,71,Horse Chestnut
+73,5,8,123,Horse Chestnut
+73,6,79,243,Horse Chestnut
+73,7,165,175,Horse Chestnut
+73,8,167,156,Horse Chestnut
+73,9,150,166,Horse Chestnut
+73,10,151,175,Horse Chestnut
+74,1,705,731,Horse Chestnut
+74,2,1520,1277,Horse Chestnut
+74,3,79,565,Horse Chestnut
+74,4,812,1507,Horse Chestnut
+74,5,1451,294,Horse Chestnut
+74,6,884,152,Horse Chestnut
+74,7,703,767,Horse Chestnut
+74,8,746,784,Horse Chestnut
+74,9,764,748,Horse Chestnut
+74,10,751,721,Horse Chestnut
+75,1,157,278,Horse Chestnut
+75,2,328,509,Horse Chestnut
+75,3,9,344,Horse Chestnut
+75,4,81,545,Horse Chestnut
+75,5,401,302,Horse Chestnut
+75,6,218,147,Horse Chestnut
+75,7,155,289,Horse Chestnut
+75,8,164,290,Horse Chestnut
+75,9,171,287,Horse Chestnut
+75,10,168,279,Horse Chestnut
+76,1,300,370,Horse Chestnut
+76,2,388,22,Horse Chestnut
+76,3,531,448,Horse Chestnut
+76,4,615,251,Horse Chestnut
+76,5,41,144,Horse Chestnut
+76,6,50,390,Horse Chestnut
+76,7,311,356,Horse Chestnut
+76,8,307,343,Horse Chestnut
+76,9,293,336,Horse Chestnut
+76,10,287,355,Horse Chestnut
